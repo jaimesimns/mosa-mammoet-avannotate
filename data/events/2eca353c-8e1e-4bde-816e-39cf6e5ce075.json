@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "29750150-6816-4830-a6df-53107f76927c": {
+      "label": "AC Generator Soundscape",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://github.com/jaimesimns/artifacts-and-sound/blob/gh-pages/audio/ac/acgenerator-soundscape.mp3",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Soundscape created for Ingenium Industrial Artifacts Collection, 2022."
+        }
+      ]
+    }
+  ],
+  "citation": "Jaime Simons, 2026",
+  "label": "AC Generator Soundscape",
+  "av_file_order": [
+    "29750150-6816-4830-a6df-53107f76927c"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2026-04-08T10:40:37.222Z",
+  "created_by": "jaimesimns",
+  "updated_at": "2026-04-08T10:40:37.222Z",
+  "updated_by": "jaimesimns"
+}
